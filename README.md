@@ -1,7 +1,4 @@
 # Twitter-Sentiment-Analysis
-Identifying posting on social media using Natural Language Processing
-
-Detecting Hate tweets - twitter sentiment analysis :
 
 Abstract :
 
