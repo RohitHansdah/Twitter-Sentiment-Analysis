@@ -15,7 +15,3 @@ Results and Conclusion :
 
 Comparative analysis of Logistic Regression, Naive Bayes, Random Forest and SGD  Classifier was performed. The results showed that Logistic Regression performs comparatively better with the TF IDF approach.After training models  the best results achieved were a f1 score of 65 on applying Logistic Regression model. 
 
-
-Data Source : data
-
-Code link : click here
