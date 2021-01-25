@@ -6,7 +6,7 @@ Toxic online content has become a major issue in today's world due to the increa
 
 Overview :
 
-The goal is to classify tweets into 2 categories, hate, and non-hate speech. The project analyzed 31935 tweets from the Kaggle dataset. The first step to preprocess the data using TF IDF. Before feeding the data into various algorithms data cleaning was done. Data cleaning was done by using lemmatization, removal of stop words, and omissions. Lemmatization removes the inflectional endings of words and returns the base form of itself. A stop word is a commonly used word, such as “the”, “a”, “an”, “in”, that I programmed to ignore. The last step is to omit any foreign characters and Greek symbols.
+The goal is to classify tweets into 2 categories, hate, and non-hate speech. The project analyzed 31935 tweets from the Kaggle dataset. The first step is to preprocess the data using TF IDF. Before feeding the data into various algorithms data cleaning was done. Data cleaning was done by using lemmatization, removal of stop words, and omissions. Lemmatization removes the inflectional endings of words and returns the base form of itself. A stop word is a commonly used word, such as “the”, “a”, “an”, “in”, that I programmed to ignore. The last step is to omit any foreign characters and Greek symbols.
 
 Results and Conclusion :
 
